@@ -1,6 +1,6 @@
 -- MarioNET v1.0 by CodeWanderer (2020)
 -- See explanation in "marioNET.lua"
---	*** Hosted on my GitHub repository https://github.com/Ivan602/marioNET ***
+--	*** Hosted on my GitHub repository https://github.com/TheCodeWanderer/marioNET ***
 
 -- #############################################################################
 -- SETTINGS
