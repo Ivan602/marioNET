@@ -3,7 +3,7 @@
 -- 	Shows the other player as Luigi on the same game screen.
 --  Compete to win the level faster than your friends!
 -- 	Currently the other player is non-interacting.
---	*** Hosted on my GitHub repository https://github.com/Ivan602/marioNET ***
+--	*** Hosted on my GitHub repository https://github.com/TheCodeWanderer/marioNET ***
 
 -- INSTALLATION: 
 -- (On both the host and client computer)
