@@ -20,7 +20,7 @@
  2. Start with Mario
  3. Create a savestate on slot 1 the moment the level starts
  4. Copy the savestate file (.fc1 extension) in \fcs\ to the same folder on client's computer
- 5. (*On client computer*) In the "marioNET_client.lua" script file change the default IP address to the host computer's IP
+ 5. (*On client computer*) In the "marioNET_client.lua" script file change the default IP address to the host computer's IP (for public IP: port forwarding or a [tunnel](https://ngrok.com/docs#tcp) is required).
 
 ## RUNNING THE SCRIPT:
  1. Start FCEUX
