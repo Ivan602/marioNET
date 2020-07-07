@@ -86,6 +86,7 @@ function TCPIP_ExchangeMsg(msg)
 	if not err then 
 		client:send(msg .. "\n") --***Send my message to client***
 	end
+	return MSG
 end
 
 function ParseString(msg)
