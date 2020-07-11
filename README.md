@@ -6,7 +6,7 @@
 
 ## INSTALLATION:
 (*On both the host and client computer*)
- 1. Download [FCEUX](http://sourceforge.net/projects/fceultra/files/Binaries/2.2.3/fceux-2.2.3-win32.zip/download)
+ 1. Download and install [FCEUX](http://sourceforge.net/projects/fceultra/files/Binaries/2.2.3/fceux-2.2.3-win32.zip/download)
  2. Download [LuaSocket](http://files.luaforge.net/releases/luasocket/luasocket/luasocket-2.0.2/luasocket-2.0.2-lua-5.1.2-Win32-vc8.zip)
  3. Extract then copy the folders *lua*, *mime*, *socket* to the main directory of FCEUX
  4. Download [Lua-GD](https://sourceforge.net/projects/lua-gd/files/latest/download)
