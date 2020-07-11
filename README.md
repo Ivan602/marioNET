@@ -8,9 +8,9 @@
 (*On both the host and client computer*)
  1. Download [FCEUX](http://sourceforge.net/projects/fceultra/files/Binaries/2.2.3/fceux-2.2.3-win32.zip/download)
  2. Download [LuaSocket](http://files.luaforge.net/releases/luasocket/luasocket/luasocket-2.0.2/luasocket-2.0.2-lua-5.1.2-Win32-vc8.zip)
- 3. Download [Lua-GD](https://sourceforge.net/projects/lua-gd/files/latest/download)
- 4. Copy the folders lua, mime, socket in LuaSocket to the main directory of FCEUX
- 5. Copy the .dll files in Lua-GD to the main directory of FCEUX
+ 3. Extract then copy the folders *lua*, *mime*, *socket* to the main directory of FCEUX
+ 4. Download [Lua-GD](https://sourceforge.net/projects/lua-gd/files/latest/download)
+ 5. Extract then copy the *.dll* files to the main directory of FCEUX
  6. Download the contents of this repo and unpack it into a folder (e.g. ../FCEUX/luaScripts/marioNET)
  7. (*On host computer*) Download "marioNET.lua" from repo and place it into above folder
  8. (*On client computer*) Download "marioNET_client.lua" from repo and place it into above folder
